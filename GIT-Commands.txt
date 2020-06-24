@@ -1,0 +1,11 @@
+(1)git clone <LINK>
+
+(2) goto Folder && Paste Content
+
+(3) Right click ,  and click "GITBASH-Here"
+
+(4) git add *
+
+(5) git commit -m "MEAASGE"
+
+(6) git push
